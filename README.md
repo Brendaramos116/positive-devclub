@@ -40,6 +40,8 @@ positive-landing/
 1. Clone o repositório:
 ```bash
 git clone https://github.com/seu-usuario/positive-landing.git
-Abra o arquivo index.html no navegador.
+```
+```
+2. Abra o arquivo `index.html` no navegador.
 ```
 Feito com 💚 por **Brenda da Conceição Ramos**
